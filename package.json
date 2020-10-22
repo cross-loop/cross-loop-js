@@ -1,0 +1,23 @@
+{
+  "name": "@cross-loop/cross-loop-js",
+  "version": "1.0.0",
+  "description": "Connector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cross-loop/cross-loop-js.git"
+  },
+  "keywords": [
+    "cross-loop-js",
+    "cross-loop"
+  ],
+  "author": "cross-loop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cross-loop/cross-loop-js/issues"
+  },
+  "homepage": "https://github.com/cross-loop/cross-loop-js#readme"
+}
