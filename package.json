@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/cross-loop/cross-loop-js/issues"
   },
-  "homepage": "https://github.com/cross-loop/cross-loop-js#readme"
+  "homepage": "https://github.com/cross-loop/cross-loop-js#readme",
+  "dependencies": {
+    "short-uuid": "^4.1.0"
+  }
 }

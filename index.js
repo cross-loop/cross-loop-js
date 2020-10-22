@@ -1,8 +1,11 @@
+const short = require('short-uuid');
+
+
 
 var main = {};
 main.login = (i, j) => {
 	console.log('login');
-	return i + j;
+	return short.generate();
 }
 
 
